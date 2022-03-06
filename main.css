@@ -1,0 +1,13 @@
+#background_1 {
+  background-color: #000000;
+  height: 100vh;
+  position: relative;
+}
+
+.item {
+  position: absolute;
+  background-color: #ffffff;
+  height: 10vh;
+  width: 10vw;
+  left: 0vw;
+}
